@@ -1,7 +1,3 @@
--- Task 5: SQL Developer Internship
--- SQL Joins (Inner, Left, Right, Full)
-
--- Create sample tables (Customers & Orders)
 CREATE TABLE Customers (
     customer_id INT PRIMARY KEY,
     customer_name VARCHAR(100),
